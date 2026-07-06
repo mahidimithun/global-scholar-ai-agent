@@ -29,7 +29,7 @@ GlobalScholar runs as a highly focused, interactive loop in four distinct steps:
 When executed, the program establishes an authenticated instance via the official `genai.Client()`. It holds execution at the command line or within the Google Colab runtime interface using an interactive prompt:
 👉 Enter your relocation inquiry (e.g., My degree is CSE, show me cheap options...) 
 
-## ⚙️ Output:<img width="1891" height="562" alt="ai2" src="https://github.com/user-attachments/assets/8bbf594b-b6f6-4452-8591-db23814596be" />
+## ⚙️ Output:
 
 <img width="1892" height="897" alt="ai1" src="https://github.com/user-attachments/assets/94c66fea-84c7-493f-9d1f-4f9aad1f3f6d" />
 <img width="1891" height="562" alt="ai2" src="https://github.com/user-attachments/assets/6a04f1b8-ab48-4d62-94f5-efe842b67a60" />
